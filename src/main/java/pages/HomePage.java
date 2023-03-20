@@ -6,6 +6,7 @@ import org.openqa.selenium.WebDriver;
 public class HomePage {
 
     private WebDriver driver;
+    private String A= null;
     private By loginButton = By.xpath("//span[@class=\"fa-user\"]");
 
 
