@@ -3,8 +3,6 @@ package pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import static java.io.FileDescriptor.getHandle;
-
 public class HomePage {
 
     private WebDriver driver;
